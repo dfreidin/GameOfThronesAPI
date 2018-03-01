@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    margin: 20px;
+}
+#info {
+    width: 600px;
+    min-height: 200px;
+    margin-left: 150px;
+    border: solid black;
+    padding: 20px;
+}
